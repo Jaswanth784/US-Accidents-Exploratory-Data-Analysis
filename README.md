@@ -12,6 +12,5 @@ Insights:
 - Over 1200 cities have reported just one accident (need to investigate)
 
 ## Colab link
-https://drive.google.com/file/d/1W_bR6rPL_tKP3E8BRcKGVfslCbQI0Zeg/view?usp=sharing
 
      
