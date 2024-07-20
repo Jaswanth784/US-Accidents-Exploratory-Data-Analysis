@@ -12,5 +12,6 @@ Insights:
 - Over 1200 cities have reported just one accident (need to investigate)
 
 ## Colab link
+https://colab.research.google.com/github/Jaswanth784/US-Accidents-Exploratory-Data-Analysis/blob/main/us_accidents_analysis.ipynb
 
      
